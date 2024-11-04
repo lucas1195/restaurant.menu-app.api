@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JtZ4KnnvNQ/A6x+JbuNjTExj0GkUeTUOLTTtZPh+yqU=",
+  "Source": "restaurant.menu-app.api",
+  "BasePath": "_content/restaurant.menu-app.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
